@@ -24,13 +24,13 @@ email:
 
 ### [**Contrastive Attention Mechanism for Abstractive Text Summarization**](https://arxiv.org/abs/1910.13114)
 
-Xiangyu Duan\*, **Hongfei Yu\**, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang<br>
+Xiangyu Duan*, **Hongfei Yu**, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang. _<br>
 accepted by Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP2019)._<br>
 
 
 ### [**Layer-wise De-training and Re-training for ConvolutionalSequence to Sequence Machine Translation**](https://dl.acm.org/doi/abs/10.1145/3358414)
 
-**Hongfei Yu\**, Xiaoqing Zhou, Xiangyu Duan, Min Zhang.<br>
+**Hongfei Yu**, Xiaoqing Zhou, Xiangyu Duan, Min Zhang.<br>
 accepted by ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
 
 ----
@@ -39,8 +39,8 @@ accepted by ACM Transactions on Asian and Low-Resource Language Information Proc
 
 ### *Alibaba DAMO, Research Experiences for Machine Translation** `2017.5 - 2017.8`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_intern_<br>
+The main work (multi-source NMT) is to support model translation of multiple scenes on multilingual items and improve the performance of multi-domain machine translation.
 
 
 ## Honors & Awards
