@@ -13,7 +13,7 @@
 ### **Wenzheng College of Soochow Universit** `2013.9 - 2017.6`
 
 
-- B.S. in Computer Science, _Magna Cum Laude_
+- B.S. in Computer Science
 - The Internet of Things
 
 
