@@ -22,37 +22,17 @@ email:
 
 ## Publications
 
-### **How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**
 
-**Wode Ni\***, Dor Ma'ayan\*, Katherine Ye, Chinmay Kulkarni, Joshua Sunshine<br>
-_Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._
+### [**Contrastive Attention Mechanism for Abstractive Text Summarization**](https://arxiv.org/abs/1910.13114)
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
+**Xiangyu Duan\***, Hongfei Yu\*, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang<br>
 _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
+### [**Layer-wise De-training and Re-training for ConvolutionalSequence to Sequence Machine Translation**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+Hongfei Yu, Xiaoqing Zhou, Xiangyu Duan, Min Zhang.<br>
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/dsldi.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/superres.pdf)]
 
 ----
 
@@ -67,17 +47,6 @@ _Research Assistant_<br>
 
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Advising
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 
 ## Honors & Awards
@@ -94,4 +63,4 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Juanary 2020 -->
