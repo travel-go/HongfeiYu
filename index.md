@@ -8,12 +8,13 @@
 
 
 - M.S. in Computer Science
+- Machine Translation, Abstractive Text Summarization, Natural Language Processing
 
 ### **Wenzheng College of Soochow Universit** `2013.9 - 2017.6`
 
 
 - B.S. in Computer Science, _Magna Cum Laude_
-- Machine Translation, Abstractive Text Summarization, Natural Language Processing
+- The Internet of Things
 
 
 ## Publications
