@@ -28,8 +28,8 @@ accepted by Empirical Methods in Natural Language Processing and 9th Internation
 
 ### [**Layer-wise De-training and Re-training for ConvolutionalSequence to Sequence Machine Translation**](https://dl.acm.org/doi/abs/10.1145/3358414)
 
-**Hongfei Yu**, Xiaoqing Zhou, Xiangyu Duan, Min Zhang.<br>
-accepted by ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+**Hongfei Yu**, Xiaoqing Zhou, Xiangyu Duan, Min Zhang._<br>
+accepted by ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)._<br>
 
 ----
 
@@ -38,7 +38,7 @@ accepted by ACM Transactions on Asian and Low-Resource Language Information Proc
 ### *Alibaba DAMO, Research Experiences for Machine Translation** `2019.6 - 2019.9`
 
 _intern_<br>
-The main work (multi-source NMT) is to support model translation of multiple scenes on multilingual items and improve the performance of multi-domain machine translation.
+The main work (multi-source NMT): supports multi-scene machine translation and improves performance._<br>
 
 
 ## Honors & Awards
