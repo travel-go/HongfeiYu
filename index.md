@@ -1,12 +1,6 @@
 ---
-layout: cv
-title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: hfyutravel@gmail.com
 ---
 
 # Wode **Ni**
@@ -23,32 +17,18 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Soochow University** `2017.9 -2020.6`
 
-```
-Pittsburgh, PA
-```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Computer Science
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Wenzheng College of Soochow Universit** `2013.9 - 2017.6`
 
-```
-New York, NY
-```
 
 - B.S. in Computer Science, _Magna Cum Laude_
 - Vision, Graphics track
 
-### **Dickinson College** `2013.9 - 2016.5`
 
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
@@ -109,12 +89,6 @@ Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reu
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Honors & Awards
 
@@ -127,10 +101,6 @@ Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Service
-
-Research Experiences for Undergraduates in Software Engineering (REUSE) Admission Committee `CMU, 2019`
 
 <!-- ### Footer
 
