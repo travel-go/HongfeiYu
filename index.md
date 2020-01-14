@@ -1,5 +1,5 @@
 
-# Hongfei **Yu**
+# Hongfei Yu
 
 ## Email: hfyutravel@gmail.com
 ## Education
@@ -38,13 +38,13 @@ accepted by ACM Transactions on Asian and Low-Resource Language Information Proc
 ### *Alibaba DAMO, Research Experiences for Machine Translation** `2019.6 - 2019.9`
 
 _intern_<br>
-The main work (multi-source NMT): supports multi-scene machine translation and improves performance._<br>
+_The main work (multi-source NMT): supports multi-scene machine translation and improves performance. _<br>
 
 
 ## Honors & Awards
 
 Soochow University Scholarship `Suzhou, 2017` <br>
-Higher Mathematics competition `Suzhou, 2014`<br>
+Higher Mathematics competition `Suzhou, 2014` <br>
 
 
 <!-- ### Footer
