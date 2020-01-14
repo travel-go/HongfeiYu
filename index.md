@@ -1,10 +1,7 @@
----
-email:
-  url: hfyutravel@gmail.com
----
 
-# Wode **Ni**
+# Hongfei **Yu**
 
+## Email: hfyutravel@gmail.com
 ## Education
 
 ### **Soochow University** `2017.9 -2020.6`
@@ -37,7 +34,7 @@ accepted by ACM Transactions on Asian and Low-Resource Language Information Proc
 
 ## Experience
 
-### *Alibaba DAMO, Research Experiences for Machine Translation** `2017.5 - 2017.8`
+### *Alibaba DAMO, Research Experiences for Machine Translation** `2019.6 - 2019.9`
 
 _intern_<br>
 The main work (multi-source NMT) is to support model translation of multiple scenes on multilingual items and improve the performance of multi-domain machine translation.
