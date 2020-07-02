@@ -10,7 +10,7 @@
 - M.S. in Computer Science
 - Machine Translation, Abstractive Text Summarization, Natural Language Processing
 
-### **Wenzheng College of Soochow Universit** `2013.9 - 2017.6`
+### **Wenzheng College of Soochow University** `2013.9 - 2017.6`
 
 
 - B.S. in Computer Science
